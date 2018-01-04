@@ -1,0 +1,3 @@
+@extends('right')
+
+@section('content')
